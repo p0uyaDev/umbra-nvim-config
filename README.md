@@ -1,6 +1,12 @@
 # 🦇 Umbra Neovim Config
 
-A **lightweight**, **AI-free** Neovim configuration built upon the **LazyVim** starter pack. This setup includes a **custom colorscheme** and **keymap** inspired by **Josean Martinez's** Neovim config, providing a streamlined and efficient development environment for power users. ⚡
+A **lightweight**, **AI-free** Neovim configuration built upon the [**LazyVim**](https://www.lazyvim.org/) starter pack. This setup includes a **custom colorscheme** and **keymap** inspired by [**Josean Martinez's**](https://www.josean.com/) Neovim config, providing a streamlined and efficient development environment for power users. ⚡
+
+<p align="center">
+  <img src="https://github.com/p0uyaDev/umbra-nvim-config/blob/main/assets/260219_22h06m02s_screenshot.png" width="300" height="300" alt="Alpha Launcher">
+  <img src="https://github.com/p0uyaDev/umbra-nvim-config/blob/main/assets/260219_22h06m22s_screenshot.png" width="300" height="300" alt="Code 1">
+  <img src="https://github.com/p0uyaDev/umbra-nvim-config/blob/main/assets/260219_22h07m07s_screenshot.png" width="300" height="300" alt="Code 3">
+</p>
 
 ---
 
@@ -12,6 +18,7 @@ A **lightweight**, **AI-free** Neovim configuration built upon the **LazyVim** s
 * **Lightweight Setup**: Focused on simplicity and performance, without unnecessary bloat. ⚖️
 * **AI-Free**: Minimal reliance on AI-driven plugins for a more straightforward and customizable experience. 🧠❌
 * **Plugins & LSP Setup**: Includes a wide range of plugins like `nvim-cmp`, `nvim-lspconfig`, and `conform.nvim`, optimized for efficient development. 🛠️
+* **Fonts**: Italic: [Victor Mono](https://rubjo.github.io/victor-mono/), Normal: [0xPropo](https://github.com/0xType/0xPropo)
 
 ---
 
